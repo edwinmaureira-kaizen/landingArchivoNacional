@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+.bgh-azul:hover {
+    background-color: #0f69b4!important;
+   transform: translateY(-15px) ;
+   box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
+  }
+  .rounded-85{
+      border-radius: 0.85rem;
+  }
+.card-height{
+    height: 17rem;
+}
+.card-width{
+    width: 15.5rem;
+}
+.bg-gris{
+    background-color: #eee;
+}
+.text-gris{
+    color:#6a6a6a;
+}
+.text-gris-footer{
+    color:#f3f3f3;
+}
+.w-60{
+    width: 60%!important;
+}
+body{
+    font-family: 'Open Sans', sans-serif;}
+  
